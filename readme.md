@@ -1,0 +1,1 @@
+This is a roll a ball game.  You use arrow keys to control the player(ball) to hit each objects(items) in the game. The number on the upper left side of the screen will track how many objects(items) you hit.
